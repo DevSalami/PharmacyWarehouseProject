@@ -34,6 +34,6 @@ As a finalized product, our software will:
 
 The project as a whole, will serve as a way to gain experience on teamwork, project management and coding and overall as first-hand experience to working on an actual project in our future workspace.
 
-*This project is included as 30% of our final grade in this class.*
+*This project will count as 30% of our final grade in this class.*
 
 The Software and Quality Management class is taught by Dr. Theodore Pachidis at the International Hellenic University, IT Department _(former Technological Institute of Eastern Macedonia and Thrace, Software Engineering Department)_ in the region of Kavála. 
