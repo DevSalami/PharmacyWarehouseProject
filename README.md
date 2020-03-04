@@ -7,7 +7,7 @@ Our University project for the Software and Quality Management class.
 
 • Chrysanthi Tektonidou, **Project Manager**
 
-• Eva Deligiorgi, **Demand Management**
+• Eva Deligiorgi, **Demand Manager**
 
 • Steven Michelakis, **Programmer**
 
