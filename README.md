@@ -1,7 +1,7 @@
 # PharmacyWarehouseProject
 Our University project for the Software and Quality Management class.
 
-###### This GitHub repository serves as a hub for project members to share files and have an view of the overall progress of our project.
+###### This GitHub repository serves as a hub for project members to share files and have a view of the overall progress of our project.
 
 ## -Project Members-
 
